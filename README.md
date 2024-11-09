@@ -19,7 +19,7 @@ The hopping window mean aggregation technique is commonly used in distributed en
 ## Results
 The graph below (generated in the project code) compares the original sensor readings with the hopping mean values. The hopping mean provides a smooth representation of the data, allowing for better insights into trends in high-frequency time series data.
 
-![Hopping Window Mean Aggregation](path/to/image.png)
+![Hopping Window Mean Aggregation](download.png)
 
 ## Usage
 1. Clone this repository:
